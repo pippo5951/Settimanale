@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Allenamenti settimanali</string>
+
+    <string name="info">riga per l\'informazione</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="aggiungi">Aggiungi</string>
+    <string name="cancella">Cancella Id</string>
+</resources>
